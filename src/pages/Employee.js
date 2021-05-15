@@ -2,6 +2,7 @@ import { Component } from "react";
 import API from "../utils/API";
 import Table from "../components/Table";
 import Row from "../components/Row";
+"homepage": "http://.github.io/my-app"
 class Employee extends Component {
   state = {
     search: "",
