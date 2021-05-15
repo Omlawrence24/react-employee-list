@@ -1,5 +1,4 @@
 import React from "react";
-import Employee from "../../pages/Employee";
 // this component handles the employees table
 function Table(props) {
   return (
